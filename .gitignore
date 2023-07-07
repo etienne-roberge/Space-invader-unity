@@ -8,6 +8,7 @@
 [Oo]bj/
 [Tt]emp/
 [Uu]nityGenerated/
+Logs/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
@@ -16,6 +17,8 @@ sysinfo.txt
 ###
 # VS/MD solution and project files
 ###
+.vscode
+.vsconfig
 [Ee]xportedObj/
 *.booproj
 *.csproj
